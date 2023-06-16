@@ -1,6 +1,6 @@
 # LinkMe
 
-![Linktree Clone](linktree_clone_screenshot.png)
+![LinktMe](deven-linkme.png)
 
 ## Description
 
